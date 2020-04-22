@@ -1,0 +1,1 @@
+Sample Apache Kafka clients sending string messages. For Avro support a schema registry required. Uncomment the sections inside the clients to send/receive sample Avro messages. A docker-compose file is included to set up a simple Apache Kafka broker.
